@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4A4F10E1-C97D-45A8-9211-B063A17A9C35}</ProjectGuid>
-    <RootNamespace>My3_15_初始C语言</RootNamespace>
+    <ProjectGuid>{AA829BC2-9C7B-48FA-BC66-3ECFA8714CAC}</ProjectGuid>
+    <RootNamespace>My3_15__初始c语言</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -47,7 +47,6 @@
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">

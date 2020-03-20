@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_15_初始C语言", "3_15_初始C语言\3_15_初始C语言.vcxproj", "{4A4F10E1-C97D-45A8-9211-B063A17A9C35}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_15__初始c语言", "3_15__初始c语言\3_15__初始c语言.vcxproj", "{AA829BC2-9C7B-48FA-BC66-3ECFA8714CAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4A4F10E1-C97D-45A8-9211-B063A17A9C35}.Debug|Win32.ActiveCfg = Debug|Win32
-		{4A4F10E1-C97D-45A8-9211-B063A17A9C35}.Debug|Win32.Build.0 = Debug|Win32
-		{4A4F10E1-C97D-45A8-9211-B063A17A9C35}.Release|Win32.ActiveCfg = Release|Win32
-		{4A4F10E1-C97D-45A8-9211-B063A17A9C35}.Release|Win32.Build.0 = Release|Win32
+		{AA829BC2-9C7B-48FA-BC66-3ECFA8714CAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA829BC2-9C7B-48FA-BC66-3ECFA8714CAC}.Debug|Win32.Build.0 = Debug|Win32
+		{AA829BC2-9C7B-48FA-BC66-3ECFA8714CAC}.Release|Win32.ActiveCfg = Release|Win32
+		{AA829BC2-9C7B-48FA-BC66-3ECFA8714CAC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
