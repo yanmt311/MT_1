@@ -1,0 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS 1
+
+//ÉùÃ÷º¯Êý
+int Sub(int x, int y);
