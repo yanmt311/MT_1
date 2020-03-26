@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6 10.6 zuoye1 打印菱形图案", "6 10.6 zuoye1 打印菱形图案\6 10.6 zuoye1 打印菱形图案.vcproj", "{F00F7AAC-3266-4919-B5C1-ED999F8B5825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00F7AAC-3266-4919-B5C1-ED999F8B5825}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F00F7AAC-3266-4919-B5C1-ED999F8B5825}.Debug|Win32.Build.0 = Debug|Win32
+		{F00F7AAC-3266-4919-B5C1-ED999F8B5825}.Release|Win32.ActiveCfg = Release|Win32
+		{F00F7AAC-3266-4919-B5C1-ED999F8B5825}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
