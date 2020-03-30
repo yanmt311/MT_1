@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.27_game_扫雷_二维数组实践", "3.27_game_扫雷_二维数组实践\3.27_game_扫雷_二维数组实践.vcxproj", "{F50A7AEA-8BEE-441D-A18D-A9A6E28E1AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F50A7AEA-8BEE-441D-A18D-A9A6E28E1AE4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F50A7AEA-8BEE-441D-A18D-A9A6E28E1AE4}.Debug|Win32.Build.0 = Debug|Win32
+		{F50A7AEA-8BEE-441D-A18D-A9A6E28E1AE4}.Release|Win32.ActiveCfg = Release|Win32
+		{F50A7AEA-8BEE-441D-A18D-A9A6E28E1AE4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
