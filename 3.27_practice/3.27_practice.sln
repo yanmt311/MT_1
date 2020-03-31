@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.27_二维数组", "3.27_二维数组\3.27_二维数组.vcxproj", "{B94399A3-299A-4E2C-8023-898CB1DEEE35}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.27_practice", "3.27_practice\3.27_practice.vcxproj", "{1012BA17-C071-4F6D-A670-15F55003A1B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B94399A3-299A-4E2C-8023-898CB1DEEE35}.Debug|Win32.ActiveCfg = Debug|Win32
-		{B94399A3-299A-4E2C-8023-898CB1DEEE35}.Debug|Win32.Build.0 = Debug|Win32
-		{B94399A3-299A-4E2C-8023-898CB1DEEE35}.Release|Win32.ActiveCfg = Release|Win32
-		{B94399A3-299A-4E2C-8023-898CB1DEEE35}.Release|Win32.Build.0 = Release|Win32
+		{1012BA17-C071-4F6D-A670-15F55003A1B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1012BA17-C071-4F6D-A670-15F55003A1B2}.Debug|Win32.Build.0 = Debug|Win32
+		{1012BA17-C071-4F6D-A670-15F55003A1B2}.Release|Win32.ActiveCfg = Release|Win32
+		{1012BA17-C071-4F6D-A670-15F55003A1B2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
