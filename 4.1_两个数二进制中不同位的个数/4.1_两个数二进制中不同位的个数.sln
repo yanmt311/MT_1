@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.1_两个数二进制中不同位的个数", "4.1_两个数二进制中不同位的个数\4.1_两个数二进制中不同位的个数.vcxproj", "{ADD73522-80B4-465E-A0BB-D13514FB0C3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD73522-80B4-465E-A0BB-D13514FB0C3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ADD73522-80B4-465E-A0BB-D13514FB0C3F}.Debug|Win32.Build.0 = Debug|Win32
+		{ADD73522-80B4-465E-A0BB-D13514FB0C3F}.Release|Win32.ActiveCfg = Release|Win32
+		{ADD73522-80B4-465E-A0BB-D13514FB0C3F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
