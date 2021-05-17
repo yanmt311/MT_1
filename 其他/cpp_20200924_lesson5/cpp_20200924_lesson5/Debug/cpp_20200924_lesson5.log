@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/9/24 20:29:16。
+     1>项目“D:\Program Files (x86)\code\cpp_20200924_lesson5\cpp_20200924_lesson5\cpp_20200924_lesson5.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\program files (x86)\code\cpp_20200924_lesson5\cpp_20200924_lesson5\test.cpp(62): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\program files (x86)\code\cpp_20200924_lesson5\cpp_20200924_lesson5\test.cpp(64): error C2664: “char *strcpy(char *,const char *)”: 无法将参数 1 从“int”转换为“char *”
+                 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>d:\program files (x86)\code\cpp_20200924_lesson5\cpp_20200924_lesson5\test.cpp(65): error C2664: “char *strcpy(char *,const char *)”: 无法将参数 1 从“int”转换为“char *”
+                 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“D:\Program Files (x86)\code\cpp_20200924_lesson5\cpp_20200924_lesson5\cpp_20200924_lesson5.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.80
